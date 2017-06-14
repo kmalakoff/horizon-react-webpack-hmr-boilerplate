@@ -1,3 +1,4 @@
+import React from 'react'
 import Horizon from '@horizon/client'
 import { Connector } from 'horizon-react'
 

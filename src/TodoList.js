@@ -1,3 +1,4 @@
+import React, { Component } from 'react'
 import { subscribe } from 'horizon-react'
 
 var Todo = ({value, remove}) => 
